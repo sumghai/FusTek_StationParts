@@ -4,4 +4,4 @@ This parts pack is licenced under Creative Commons Attribution-ShareAlike 4.0 In
 
 - You may remix your own derivatives (new models, alternative textures), and release them under your own name
 
-- You must credit Robin "sumghai" Chang and Alex "fusty" Sterling (author and original author, FusTek Station Parts) when publishing your derivatives in the download and forum posts
+- You must credit **Robin "sumghai" Chang and Alex "fusty" Sterling (author and original author, FusTek Station Parts)** when publishing your derivatives in the download and forum posts
