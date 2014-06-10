@@ -1,4 +1,4 @@
-This parts pack is licenced under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), which in layman's terms means:
+This parts pack is licenced under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://www.creativecommons.org/licenses/by-sa/4.0/), which in layman's terms means:
 
 - You are permitted to use, copy, redistribute my work as-is
 
