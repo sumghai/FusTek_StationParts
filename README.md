@@ -1,4 +1,4 @@
-# FusTek Station Parts (X0.04-4 / 5 June 2014)
+# FusTek Station Parts (WIP development towards R0.04a / Apr 2015)
 Parts Pack for Kerbal Space Program, featuring ISS-inspired habitation, science lab and other crew compartments for building space stations and planetary outposts.
 
 **Author:** Robin "sumghai" Chang (sumdumghai@gmail.com)
