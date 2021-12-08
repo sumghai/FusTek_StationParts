@@ -62,6 +62,18 @@ PART
 	MODULE
 	{
 		name = ModuleAnimateGeneric
+		animationName = FusTek_IACBM_ActivePassive_Toggle
+		startEventGUIName = Switch to Passive Mode
+		endEventGUIName = Switch to Active Mode
+		actionGUIName = Toggle Active/Passive Mode
+		eventAvailableEVA = false
+		evaDistance = 5
+	}
+<<<<<<< HEAD:GameData/FusTek/Station Parts/Parts/FusTekIACBM.cfg
+	
+	MODULE
+	{
+		name = ModuleAnimateGeneric
 		animationName = FusTek_Hatch_Retrofit_Toggle
 		startEventGUIName = Install FusTek Hatch
 		endEventGUIName = Remove FusTek Hatch
@@ -84,4 +96,19 @@ PART
         animationName = FusTek_IACBM_Lamp_Toggle
         useResources = true
     }
+
+=======
+
+	MODULE
+        {
+	        name = ModuleLight
+	        lightName = spotlight
+	        useAnimationDim = true
+	        lightBrightenSpeed = 100
+	        lightDimSpeed = 100
+	        resourceAmount = 0.05
+	        animationName = IACBM125_Lights
+	        useResources = true
+        }
+>>>>>>> 83b25aaf9bf89f2fd3eb059710e8635535b3a7ad:GameData/FusTek/Station Parts/Parts/IACBM125m.cfg
 }

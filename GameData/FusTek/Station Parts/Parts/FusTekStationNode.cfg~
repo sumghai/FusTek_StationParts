@@ -103,7 +103,11 @@ PART {
 
 	vesselType = Station
 
+<<<<<<< HEAD:GameData/FusTek/Station Parts/Parts/FusTekStationNode.cfg
+	description = [TODO - Add description]
+=======
 	description = A shortened variant of the classic Node Mk III module for the space and/or budget concious space agency. Also available with flat non-tapered ends.  
+>>>>>>> 83b25aaf9bf89f2fd3eb059710e8635535b3a7ad:GameData/FusTek/Station Parts/Parts/KarmonyCompactNodeMkIII.cfg
 
 	attachRules = 1,0,1,1,0
 

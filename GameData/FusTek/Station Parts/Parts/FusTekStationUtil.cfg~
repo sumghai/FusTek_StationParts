@@ -62,7 +62,11 @@ PART {
 
 	vesselType = Station
 
+<<<<<<< HEAD:GameData/FusTek/Station Parts/Parts/FusTekStationUtil.cfg
+	description = [TODO - Add description]
+=======
 	description = Originally designed as stage sets for shooting corridor scenes in high-budget science fiction blockbusters such as "3001: Jeb's Odyssey", an engineering intern discovered that one could, um, actually fit lockers in there for storing packed lunches and spare self-sealing stem bolts. Also available with flat non-tapered ends. 
+>>>>>>> 83b25aaf9bf89f2fd3eb059710e8635535b3a7ad:GameData/FusTek/Station Parts/Parts/KarmonyStorModule.cfg
 
 	attachRules = 1,0,1,1,0
 
